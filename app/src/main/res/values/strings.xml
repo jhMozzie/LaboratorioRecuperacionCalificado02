@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LaboratorioRecuperacionCalificado02</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="ocultar">Ocultar</string>
+    <string name="examen_calificado_02_recuperacion">Examen Calificado 02 Recuperacion</string>
+    <string name="contacto_guardado">Contacto Guardado</string>
+    <string name="registro_de_contactos">Registro de Contactos</string>
+    <string name="nombres">Nombres</string>
+    <string name="producto">Producto</string>
+    <string name="numero_celular">Numero Celular</string>
+    <string name="direccion">Direccion</string>
+    <string name="guardar">Guardar</string>
+</resources>
